@@ -1,10 +1,10 @@
 # SQL Project: Query Examples and Solutions
 
 This repository contains a collection of SQL queries and solutions for various tasks and questions. Below, you'll find a brief description of each query set and the queries within them.
-
+![Database Schema](image.png)
 ## Query Sets
 
-### Question Set 1 - 
+### Question Set 1 
 
 **Q1: Who is the senior most employee based on job title?**
 - Query to find the senior most employee based on job title.
@@ -21,7 +21,7 @@ This repository contains a collection of SQL queries and solutions for various t
 **Q5: Who is the best customer?**
 - Query to determine the customer who has spent the most money.
 
-### Question Set 2 - 
+### Question Set 2 
 
 **Q1: List Rock Music Listeners**
 - Query to list the email, first name, last name, & Genre of all Rock Music listeners.
@@ -32,7 +32,7 @@ This repository contains a collection of SQL queries and solutions for various t
 **Q3: Tracks Longer Than Average**
 - Query to return track names with a song length longer than the average song length.
 
-### Question Set 3 - 
+### Question Set 3 
 
 **Q1: Amount Spent by Customers on Artists**
 - Query to find how much each customer spent on artists and return customer name, artist name, and total spent.
