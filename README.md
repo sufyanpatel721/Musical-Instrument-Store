@@ -1,7 +1,10 @@
 # SQL Project: Query Examples and Solutions
 
 This repository contains a collection of SQL queries and solutions for various tasks and questions. Below, you'll find a brief description of each query set and the queries within them.
+
+Schema
 ![Database Schema](image.png)
+
 ## Query Sets
 
 ### Question Set 1 
